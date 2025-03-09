@@ -431,11 +431,3 @@ int main(void)
 	return 0;
 }
 */
-#include<stdio.h>
-
-int main(void)
-{
-	int x = 7;
-	printf("%d는 7입니다", x);
-		return 0;
-}
